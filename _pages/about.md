@@ -34,7 +34,8 @@ I am actively seeking **<u>Ph.D. or Master's opportunities for Fall 2026! 🚀</
 
 <span style="font-size:smaller;">\* denotes co-first authorship.</span>
 
-*   **Spatio-Temporal Hierarchical Causal Models** [<a href="https://arxiv.org/abs/2511.20558" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">PDF</a>] [<a href="https://github.com/CAMELLIAxt/ST-HCMs" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Code</a>]  
+*   **Spatio-Temporal Hierarchical Causal Models** [<a href="https://arxiv.org/abs/2511.20558" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">PDF</a>] [<a href="https://github.com/CAMELLIAxt/ST-HCMs" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Code</a>] [<a href="https://drive.google.com/file/d/1bOaA7t2BVDiRXWMiaDgd1S2i7qqvYnzz/view?usp=sharing" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Poster</a>] [<a href="https://drive.google.com/file/d/1CK1WQGvJELLuanASx5_DobsjX0xdGCqw/view?usp=sharing" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Slides</a>] [<a href="https://drive.google.com/file/d/1kHdVOaKFMXn40lhUXr9koQlLiBjtij-c/view?usp=sharing" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Video</a>] 
+
     **<u>Xintong Li</u>**, Haoran Zhang, and Xiao Zhou.  
     *In Proceedings of the AAAI Conference on Artificial Intelligence **(AAAI 2026)**.*
 
@@ -66,5 +67,3 @@ I am actively seeking **<u>Ph.D. or Master's opportunities for Fall 2026! 🚀</
 *   As a member of the Youth Volunteer Association, I organized the **“Reach Out”** project, a platform for international students to learn Chinese and explore local culture. 🚀 [<a href="https://mp.weixin.qq.com/s/GVi6_w8yHVEdCXf3BDGcCg" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Intro</a>] [<a href="https://mp.weixin.qq.com/s/9XT5VMhZaXB5ye0_3fnmYA" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Summary</a>] [<a href="https://mp.weixin.qq.com/s/btZVYCtj8lNmHUGZW_zWuA" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Recruitment</a>]
 
 *   I'm currently volunteer to help stray cats in my community. 🐈🥰 (<a href="https://drive.google.com/file/d/1iJ2_kFAhsxUQiItmuqmsTAUSk7do7Y6z/view?usp=sharing" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Here's one of my buddies!</a>)
-
-
