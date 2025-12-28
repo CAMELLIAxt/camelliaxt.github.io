@@ -73,7 +73,6 @@ I am actively seeking **<u>Ph.D. or Master's opportunities for Fall 2026! 🚀</
 
 <div style="text-align: center; margin-top: 20px;">
   <script type="text/javascript" id="clustrmaps"
-    src="//clustrmaps.com/map_v2.js?d=uD2NluqU7wVjLLSofSEu-iVTPShQgvy6G7oRL4OyTB4&cl=ffffff&w=a">
+    src="//clustrmaps.com/map_v2.js?d=uD2NluqU7wVjLLSofSEu-iVTPShQgvy6G7oRL4OyTB4&cl=ffffff&w=300">
   </script>
 </div>
-
