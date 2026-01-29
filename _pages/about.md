@@ -17,6 +17,9 @@ I am actively seeking **<u>Ph.D. or Master's opportunities for Fall 2026! 🚀</
 
 # 🗞️ News
 
+- **2026.01** – Our paper <a href="https://openreview.net/forum?id=XNbVoi9mfr" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">AtC</a> was accepted to **ICLR-26** 🎉  
+  🚀 See you in Brazil 🇧🇷!
+
 - **2025.11** – Our paper <a href="https://arxiv.org/abs/2511.20558" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">ST-HCM</a> was accepted to **AAAI-26**!  
   🚀 See you in Singapore 🇸🇬!
 
@@ -34,6 +37,14 @@ I am actively seeking **<u>Ph.D. or Master's opportunities for Fall 2026! 🚀</
 
 <span style="font-size:smaller;">\* denotes co-first authorship.</span>
 
+* **AtC: Aggregate-then-Calibrate for Human-centered Assessment** [<a href="https://openreview.net/pdf?id=XNbVoi9mfr" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">PDF</a>] [<a href="https://anonymous.4open.science/r/12500_AtC_supp-4F50" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Code</a>]  
+
+  Zejun Xie\*, **<u>Xintong Li</u>**\*, Guang Wang, and Desheng Zhang.  
+  *The Fourteenth International Conference on Learning Representations **(ICLR 2026)**.*
+
+  <span style="font-size:smaller;">**TL;DR:** AtC aggregates human comparisons into a consensus and isotonic-calibrates any model’s scores via the consensus, delivering decision-ready assessments with guarantees on efficiency, robustness, and optimality.</span>
+
+
 *   **Spatio-Temporal Hierarchical Causal Models** [<a href="https://arxiv.org/abs/2511.20558" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">PDF</a>] [<a href="https://github.com/CAMELLIAxt/ST-HCMs" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Code</a>] [<a href="https://drive.google.com/file/d/1bOaA7t2BVDiRXWMiaDgd1S2i7qqvYnzz/view?usp=sharing" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Poster</a>] [<a href="https://drive.google.com/file/d/1CK1WQGvJELLuanASx5_DobsjX0xdGCqw/view?usp=sharing" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Slides</a>] [<a href="https://drive.google.com/file/d/1kHdVOaKFMXn40lhUXr9koQlLiBjtij-c/view?usp=sharing" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Video</a>] 
 
     **<u>Xintong Li</u>**, Haoran Zhang, and Xiao Zhou.  
@@ -41,11 +52,6 @@ I am actively seeking **<u>Ph.D. or Master's opportunities for Fall 2026! 🚀</
 
     <span style="font-size:smaller;">**TL;DR:** We introduce Spatio-Temporal Hierarchical Causal Models (ST-HCMs) to perform causal inference from spatio-temporal data with unobserved, time-invariant confounders, a setting where traditional methods fail.</span>
 
-*   **AtC: Aggregate-then-Calibrate for Human-centered Assessment** [<a href="https://openreview.net/pdf?id=XNbVoi9mfr" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">PDF</a>]  [<a href="https://anonymous.4open.science/r/12500_AtC_supp-4F50" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Code</a>]  
-    Zejun Xie\*, **<u>Xintong Li</u>**\*, Guang Wang, and Desheng Zhang.  
-    *Submitted to **ICLR 2026**. (under review, avg score: 6.5 (Top 3.8% of all submissions))*
-
-    <span style="font-size:smaller;">**TL;DR:** AtC aggregates human comparisons into a consensus and isotonic-calibrates any model’s scores via the consensus, delivering decision-ready assessments with guarantees on efficiency, robustness, and optimality.</span>
 
 *   **FAP-CD: Fairness-Driven Age-Friendly Community Planning via Conditional Diffusion Generation** [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/35036" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">PDF</a>] [<a href="https://github.com/jinlin2021/FAP_CD" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Code</a>] [<a href="https://drive.google.com/file/d/1iUbyskqRom4EU77O5kA_vHO2M90ZzaOD/view?usp=sharing" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Poster</a>]  
     Jinlin Li, **<u>Xintong Li</u>**, and Xiao Zhou.  
