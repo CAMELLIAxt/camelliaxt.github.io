@@ -10,12 +10,17 @@ redirect_from:
 
 Hi👋! I’m **Xintong Li** (李欣桐). I'm an undergraduate student in the **Honors Talent Program in Statistics and Data Science** at <a href="https://www.ruc.edu.cn/" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Renmin University of China</a>. I'm very fortunate to be advised by Prof. <a href="https://xiaozhoucam.github.io/" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Xiao Zhou</a> at the LUMOS AI Lab. I also have the incredible opportunity to work with fantastic mentors at <a href="https://www.rutgers.edu/" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Rutgers University</a>. At the <a href="https://people.cs.rutgers.edu/~dz220/Group.html" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">ARSENAL Lab</a>, I'm co-advised by Prof. <a href="https://people.cs.rutgers.edu/~dz220/" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Desheng Zhang</a>, Prof. <a href="https://guangwang.me/" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Guang Wang</a>, Prof. <a href="http://www.zhiqinghong.one/" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Zhiqing Hong</a>, and work closely with <a href="https://scholar.google.com/citations?user=TnOm3FwAAAAJ&hl" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Zejun Xie</a>. Additionally, I‘m grateful to be advised by Prof. <a href="https://sites.google.com/view/yifan-hu" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Yifan Hu</a>.
 
-My research interests mainly lie in the intersection of **Human–AI Collaboration**, **Causal Inference and Discovery**, **Spatio-temporal Modeling**, and **AI for Social Good**. I am excited about building theoretically grounded frameworks that work robustly in complex, real-world environments.
+My research interests mainly lie in the intersection of **Causal Inference and Discovery**, **Human–AI Collaboration**, **Spatio-temporal Modeling**, and **AI for Social Good**. I am excited about building theoretically grounded frameworks that work robustly in complex, real-world environments.
 
-I am actively seeking **<u>Ph.D. or Master's opportunities for Fall 2026! 🚀</u>** and am eager to connect with fellow researchers and potential advisors!
+Starting in Fall 2026, I will join <a href="https://www.cmu.edu/" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Carnegie Mellon University</a> as a Ph.D. student, where I will be fortunate to work with Prof. <a href="https://www.andrew.cmu.edu/user/kunz1/" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Kun Zhang</a> in the <a href="https://www.cmu.edu/dietrich/causality/" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">CMU-CLeaR Group</a>.
+
+Feel free to email me if you'd like to connect!
+
 
 
 # 🗞️ News
+
+- **2026.04** – I’m excited to share that I will join <a href="https://www.cmu.edu/" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">CMU</a> as a Ph.D. student in Fall 2026, where I will work with Prof. <a href="https://www.andrew.cmu.edu/user/kunz1/" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">Kun Zhang</a> in the <a href="https://www.cmu.edu/dietrich/causality/" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">CMU-CLeaR Group</a> 🎓!
 
 - **2026.01** – Our paper <a href="https://openreview.net/forum?id=XNbVoi9mfr" style="color:#AE0B2A; text-decoration-color:#AE0B2A;">AtC</a> was accepted to **ICLR-26** 🎉  
   🚀 See you in Brazil 🇧🇷!
